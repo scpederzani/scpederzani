@@ -14,7 +14,7 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 ### :mortar_board: R Teaching
 
-- 2022: 'Scientific Data Analysis in R', University of La Laguna
+- 2022: ['Scientific Data Analysis in R'](https://github.com/scpederzani/ULL_R_course), University of La Laguna
 - 2021: 'Writing Research Articles using R and RMarkdown', MPI-EVA, Leipzig
 - 2021: Co-instructor (RMarkdown and ggplot2) for Software Carpentries [Reproducible Workflows for Scientific Computing](https://babeheim.com/2021-11-29-leipzig-online/) with [Bret Beheim](https://github.com/babeheim)
 - 2020: Co-instructor (RMarkdown and ggplot2) for Software Carpentries [Reproducible Workflows for Scientific Computing](https://hbec-mpi-eva.github.io/2020-11-23-leipzig-online/), led by [Bret Beheim](https://github.com/babeheim)
