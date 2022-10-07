@@ -10,6 +10,8 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 ### What am I up to?
 
+:chart_with_upwards_trend: I am working on an R implementation of [Pryor et al. (2014)](https://doi.org/10.1016/j.palaeo.2014.07.003) equations for estimating palaeotemperatures from mammal bioapatite oxygen stable isotope measurements: [Isotope_Temperature_Calibration](https://github.com/scpederzani/Isotope_Temperature_Calibration). 
+
 :mortar_board: I will be teaching a 4 day 'Scientific Data Analysis in R' course in late January, wich will take participants from basic R functionalities and structures, through data visualisation, good coding practices, and all the way to writing reproducible manuscripts. The course will be fully online and open to anyone, with priority given to ECRs and people working in the archaeological sciences. Watch this space for concrete announcements!
 
 ### :mortar_board: R Teaching
