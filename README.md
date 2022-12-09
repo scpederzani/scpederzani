@@ -32,9 +32,9 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 ### :scroll: Education
 
 - PhD (2021): Exploring Late Pleistocene intra- and inter-site climate variability and seasonality
-using isotope zooarchaeology (MPI-EVA & University of Aberdeen)
-- MA (2016): Prehistoric and Historic Archaeology (CAU Kiel)
-- BSc (2014): Prehistoric and Historic Archaeology & Chemistry (CAU Kiel)
+using isotope zooarchaeology (Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany & University of Aberdeen, Aberdeen, UK)
+- MA (2016): Prehistoric and Historic Archaeology (Christian-Albrechts-University Kiel, Kiel, Germany)
+- BSc (2014): Prehistoric and Historic Archaeology & Chemistry (Christian-Albrechts-University Kiel, Kiel, Germany)
 
 <!--
 
