@@ -6,7 +6,7 @@
 
 🐦 **Twitter:** [@pederzani_sarah](https://twitter.com/pederzani_sarah)
 
-I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistry and biomarker analysis to explore the climatic backdrop of recent human evolution. I am currently a postdoctoral scientist at the University of La Laguna. I am an avid R user and love implementing and promoting open and reproducible workflows and analyses in archaeology and palaeoclimate science. I regularly teach R data analysis in formats ranging from R introductory courses to advanced workshops on writing reproducible scientific manuscripts using RMarkdown. 
+I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistry and biomarker analysis to explore the climatic backdrop of recent human evolution. I am currently a postdoctoral scientist at the University of La Laguna. I am an avid R user and love implementing and promoting open and reproducible workflows and analyses in archaeology and palaeoclimate science. I regularly teach R data analysis in formats ranging from R introductory courses to advanced workshops on writing reproducible scientific manuscripts using RMarkdown (and probably soon Quarto!). 
 
 ### What am I up to?
 
