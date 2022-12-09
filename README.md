@@ -12,7 +12,7 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 :chart_with_upwards_trend: I am working on an R implementation of [Pryor et al. (2014)](https://doi.org/10.1016/j.palaeo.2014.07.003) equations for estimating palaeotemperatures from mammal bioapatite oxygen stable isotope measurements: [Isotope_Temperature_Calibration](https://github.com/scpederzani/Isotope_Temperature_Calibration). I'm aiming to turn this into an isotope temperature calibration package that will also include functions to implement [Passey et. al (2005)](https://doi.org/10.1016/j.gca.2004.12.002) inverse modelling. 
 
-:stars: I am writing a color palette R package based on the stunning art of the game [Gris](https://nomada.studio/). It's still early stages, but you can check preliminary palettes and progress at [griscolors](https://github.com/scpederzani/griscolors)
+:stars: I am writing a color palette R package based on the stunning art of the game [Gris](https://nomada.studio/). It's still early stages, but you can check preliminary palettes and progress at [GRIScolors](https://github.com/scpederzani/GRIScolors)
 
 :mortar_board: I will be teaching a 4 day 'Scientific Data Analysis in R' course in early 2023, wich will take participants from basic R functionalities and structures, through data visualisation, good coding practices, and all the way to writing reproducible manuscripts. The course will be fully online and open to anyone, with priority given to ECRs and people working in the archaeological sciences. Watch this space for concrete announcements!
 
