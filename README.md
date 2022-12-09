@@ -14,7 +14,7 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 :stars: I am writing a color palette R package based on the stunning art of the game [Gris](https://nomada.studio/). It's still early stages, but you can check preliminary palettes and progress at [GRIScolors](https://github.com/scpederzani/GRIScolors)
 
-🤓 I am transitioning to Quarto from RMarkdown for writing my scientific manuscripts, reports, lab sheets etc. I am making some example documents to teach myself at [Quarto_Leraning_Manuscripts](https://github.com/scpederzani/Quarto_Learning_Manuscripts)
+🤓 I am transitioning to Quarto from RMarkdown for writing my scientific manuscripts, reports, lab sheets etc. I am making some example documents to teach myself at [Quarto_Learning_Manuscripts](https://github.com/scpederzani/Quarto_Learning_Manuscripts)
 
 :mortar_board: In Feburary 2023 I will be giving an introduction to writing reproducible analyses and manuscripts using RMarkdown at the online [Workshop on Good Statistical Practice in Archaeology](https://twitter.com/petra_vaiglova/status/1601090325732552705) organized by Petra Vaiglova at the Australian Research Cluster in Archaeological Sciences. 
 
