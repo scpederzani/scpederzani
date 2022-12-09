@@ -14,7 +14,7 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 :stars: I am writing a color palette R package based on the stunning art of the game [Gris](https://nomada.studio/). It's still early stages, but you can check preliminary palettes and progress at [GRIScolors](https://github.com/scpederzani/GRIScolors)
 
-:mortar_board: I will be teaching a 4 day 'Scientific Data Analysis in R' course in early 2023, wich will take participants from basic R functionalities and structures, through data visualisation, good coding practices, and all the way to writing reproducible manuscripts. The course will be fully online and open to anyone, with priority given to ECRs and people working in the archaeological sciences. Watch this space for concrete announcements!
+:mortar_board: In Feburary 2023 I will be giving an introduction to writing reproducible analyses and manuscripts using RMarkdown at the online [Workshop on Good Statistical Practice in Archaeology](https://twitter.com/petra_vaiglova/status/1601090325732552705) organized by Petra Vaiglova at the Australian Research Cluster in Archaeological Sciences. 
 
 ### :mortar_board: R Teaching
 
