@@ -25,7 +25,7 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 ### :computer: Experience
 
-- 2022 - present: Leopoldina Postdoctoral Fellow in Organic Geochemistry, AMBI Lab, University of La Laguna, Tenerife, Spain
+- 2022 - present: Leopoldina Postdoctoral Fellow in Organic Geochemistry and Palaeoclimatology, AMBI Lab, University of La Laguna, Tenerife, Spain
 - 2020 - 2021: Postdoctoral Researcher in Isotope Geochemistry, Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany
 - 2016 - 2020: Doctoral Researcher in Archaeological Science and Isotope Geochemistry, Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany
 
