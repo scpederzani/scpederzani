@@ -10,7 +10,7 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 ### What am I up to?
 
-:chart_with_upwards_trend: I am working on an R implementation of [Pryor et al. (2014)](https://doi.org/10.1016/j.palaeo.2014.07.003) equations for estimating palaeotemperatures from mammal bioapatite oxygen stable isotope measurements: [Isotope_Temperature_Calibration](https://github.com/scpederzani/Isotope_Temperature_Calibration). I'm aiming to turn this into an isotope temperature calibration package that will also include functions to implement [Passey et. al (2005)](https://doi.org/10.1016/j.gca.2004.12.002) inverse modelling (currently in [Oxygen_Inverse_Model](https://github.com/scpederzani/Oxygen_Inverse_Model). 
+:chart_with_upwards_trend: I am working on an R implementation of [Pryor et al. (2014)](https://doi.org/10.1016/j.palaeo.2014.07.003) equations for estimating palaeotemperatures from mammal bioapatite oxygen stable isotope measurements: [Isotope_Temperature_Calibration](https://github.com/scpederzani/Isotope_Temperature_Calibration). I'm aiming to turn this into an isotope temperature calibration package that will also include functions to implement [Passey et. al (2005)](https://doi.org/10.1016/j.gca.2004.12.002) inverse modelling (currently in [Oxygen_Inverse_Model](https://github.com/scpederzani/Oxygen_Inverse_Model)). 
 
 :stars: I am writing a color palette R package based on the stunning art of the game [Gris](https://nomada.studio/). It's still early stages, but you can check preliminary palettes and progress at [GRIScolors](https://github.com/scpederzani/GRIScolors)
 
