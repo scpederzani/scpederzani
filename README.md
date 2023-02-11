@@ -16,11 +16,9 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 🤓 I am transitioning to Quarto from RMarkdown for writing my scientific manuscripts, reports, lab sheets etc. I am making some example documents to teach myself at [Quarto_Learning_Manuscripts](https://github.com/scpederzani/Quarto_Learning_Manuscripts)
 
-:mortar_board: In Feburary 2023 I will be giving an introduction to writing reproducible analyses and manuscripts using RMarkdown at the online [Workshop on Good Statistical Practice in Archaeology](https://twitter.com/petra_vaiglova/status/1601090325732552705) organized by Petra Vaiglova at the Australian Research Cluster in Archaeological Sciences. 
-
 ### :mortar_board: R Teaching
 
-- 2023: ['Reproducible manuscripts using Quarto'](https://github.com/scpederzani/ARCAS_quarto), Workshop on good statistical practice in archaeology, The Australian Cluster for Archaeological Science
+- 2023: ['Reproducible manuscripts using Quarto'](https://github.com/scpederzani/ARCAS_quarto), online [Workshop on Good Statistical Practice in Archaeology](https://twitter.com/petra_vaiglova/status/1601090325732552705) organized by Petra Vaiglova at the Australian Research Cluster in Archaeological Sciences
 - 2022: ['Scientific Data Analysis in R'](https://github.com/scpederzani/ULL_R_course), University of La Laguna
 - 2021: 'Writing Research Articles using R and RMarkdown', MPI-EVA, Leipzig
 - 2021: Co-instructor (RMarkdown and ggplot2) for Software Carpentries [Reproducible Workflows for Scientific Computing](https://babeheim.com/2021-11-29-leipzig-online/) with [Bret Beheim](https://github.com/babeheim)
