@@ -6,7 +6,7 @@
 
 🐦 **Twitter:** [@pederzani_sarah](https://twitter.com/pederzani_sarah)
 
-I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistry and biomarker analysis to explore the climatic backdrop of recent human evolution. I am currently a postdoctoral scientist at the University of La Laguna. I am an avid R user and love implementing and promoting open and reproducible workflows and analyses in archaeology and palaeoclimate science. I regularly teach R data analysis in formats ranging from R introductory courses to advanced workshops on writing reproducible scientific manuscripts using RMarkdown (and probably soon Quarto!). 
+I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistry and biomarker analysis to explore the climatic backdrop of recent human evolution. I am currently a postdoctoral scientist at the University of Utah. I am an avid R user and love implementing and promoting open and reproducible workflows and analyses in archaeology and palaeoclimate science. I regularly teach R data analysis in formats ranging from R introductory courses to advanced workshops on writing reproducible scientific manuscripts using Quarto/RMarkdown. 
 
 ### What am I up to?
 
@@ -26,7 +26,8 @@ I'm a palaeoclimate scientist and archaeologist using stable isotope geochemistr
 
 ### :computer: Experience
 
-- 2022 - present: Leopoldina Postdoctoral Fellow in Organic Geochemistry and Palaeoclimatology, AMBI Lab, University of La Laguna, Tenerife, Spain
+- 2024 - present: Postdoctoral Researcher for Proxy System Modeling in the California Fire project, Dept. Geology & Geophysics, University of Utah, USA
+- 2022 - 2024: Leopoldina Postdoctoral Fellow in Organic Geochemistry and Palaeoclimatology, AMBI Lab, University of La Laguna, Tenerife, Spain
 - 2020 - 2021: Postdoctoral Researcher in Isotope Geochemistry, Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany
 - 2016 - 2020: Doctoral Researcher in Archaeological Science and Isotope Geochemistry, Max-Planck-Institute for Evolutionary Anthropology, Leipzig, Germany
 
