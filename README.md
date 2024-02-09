@@ -2,7 +2,7 @@
 
 <h2 align="center">Palaeoclimate Scientist</h2>
 
-📝 **Lab staff page:** [https://wp.ull.es/ambilab/sarah-pederzani/](https://wp.ull.es/ambilab/sarah-pederzani/)
+📝 **Lab staff page:** [https://wateriso.utah.edu/spatial/#people](https://wateriso.utah.edu/spatial/#people)
 
 🐦 **Twitter:** [@pederzani_sarah](https://twitter.com/pederzani_sarah)
 
